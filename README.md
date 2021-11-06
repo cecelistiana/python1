@@ -4,8 +4,11 @@
 source code
 
 print("cece listiana umbara")
+
 print("cece")
+
 print("listiana")
+
 print("umbara")
 
 Vc Code dan Output
@@ -16,22 +19,31 @@ Vc Code dan Output
 source code
 
 integer = 100000
+
 print("integer menyatakan bilangan bulat")
+
 print(integer)
 
 float = 0.5
+
 print ("float menyatakan bilangan desimal")
+
 print(float)
 
 boolean = True
+
 print("boolean menyatakan dua nilai benar dan salah")
+
 print(boolean)
 
 string = "siapa namamu? "
+
 print("string menyatakan karakter")
+
 print(string)
 
 Vc code dan Output
+
 ![p2](https://user-images.githubusercontent.com/92987122/140599503-9c2dba68-3f31-45ed-8602-b6c58206f27b.png)
 
 3. Menerima input user
@@ -39,6 +51,7 @@ Vc code dan Output
 source code
 
 nama = input("nama ? ")
+
 hobbi = input("hobi ? ")
 
 print(nama + " hobimu adalah " + hobbi)
@@ -52,9 +65,11 @@ Vc Code dan Output
 source code
 
 year = input ("tahun lahir : ")
+
 print(type(year))
 
 year = int(year)
+
 print(type(year))
 
 age = 2021 - year
@@ -62,4 +77,5 @@ age = 2021 - year
 print("Umur kamu : " + str (age))
 
 Vc Code dan Output
+
 ![p4](https://user-images.githubusercontent.com/92987122/140599635-1c8069dc-a63d-4486-94d9-4ed5897a1e22.png)
